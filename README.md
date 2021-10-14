@@ -1,2 +1,2 @@
-# Management-App
+# managementApp
 Created with CodeSandbox
